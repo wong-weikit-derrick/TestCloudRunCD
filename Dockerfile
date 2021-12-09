@@ -1,4 +1,4 @@
-FROM python3.8-buster
+FROM python:3.8-buster
 
 COPY api.py api.py
 
